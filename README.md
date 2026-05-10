@@ -21,9 +21,7 @@
 
 ## About Me
 
-I am a final-year B.Tech Information Technology student at M.A.M College of Engineering, Trichy, passionate about building clean, responsive web applications. I enjoy working across the full stack — from crafting pixel-perfect UIs to designing backend logic with Django and Python.
-
-- Currently building **Gradify** — a full-stack web platform with Docker, PostgreSQL, and CI/CD
+I am a final-year B.Tech Information Technology student at Saveetha Engineering College, Chennai, passionate about building clean, responsive web applications. I enjoy working across the full stack — from crafting pixel-perfect UIs to designing backend logic with Django and Python.
 - Seeking **internship opportunities** in Web Development and Frontend Engineering
 - Skilled in **responsive design**, REST APIs, and modern frontend tooling
 - Available for **freelance projects** and open-source collaboration
